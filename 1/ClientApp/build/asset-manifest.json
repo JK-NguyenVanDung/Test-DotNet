@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CP25Team02/static/css/main.f5a01080.css",
+    "main.js": "/CP25Team02/static/js/main.daed8327.js",
+    "index.html": "/CP25Team02/index.html",
+    "main.f5a01080.css.map": "/CP25Team02/static/css/main.f5a01080.css.map",
+    "main.daed8327.js.map": "/CP25Team02/static/js/main.daed8327.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5a01080.css",
+    "static/js/main.daed8327.js"
+  ]
+}

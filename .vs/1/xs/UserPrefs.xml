@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{06637B98-58A1-42AB-8FA0-3C6F75E5EE28}|Default" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="1/ClientApp/src/store/WeatherForecasts.ts">
+    <Files>
+      <File FileName="1/Controllers/WeatherForecastController.cs" Line="50" Column="11" IsPinned="True" />
+      <File FileName="1/ClientApp/src/store/configureStore.ts" Line="1" Column="1" />
+      <File FileName="1/ClientApp/src/index.tsx" Line="1" Column="1" />
+      <File FileName="1/ClientApp/src/App.tsx" Line="13" Column="50" />
+      <File FileName="1/ClientApp/src/custom.css" Line="1" Column="1" />
+      <File FileName="1/ClientApp/src/react-app-env.d.ts" Line="1" Column="1" />
+      <File FileName="1/ClientApp/src/components/Layout.tsx" Line="1" Column="1" />
+      <File FileName="1/ClientApp/src/components/NavMenu.css" Line="1" Column="1" />
+      <File FileName="1/ClientApp/src/components/NavMenu.tsx" Line="1" Column="1" />
+      <File FileName="1/ClientApp/src/store/WeatherForecasts.ts" Line="51" Column="57" />
+      <File FileName="1/ClientApp/src/store/index.ts" Line="1" Column="1" />
+      <File FileName="1/ClientApp/src/store/Counter.ts" Line="1" Column="1" />
+      <File FileName="1/ClientApp/src/App.test.tsx" />
+      <File FileName="1/Program.cs" Line="16" Column="1" />
+      <File FileName="1/Startup.cs" Line="1" Column="1" />
+      <File FileName="1/Properties/launchSettings.json" />
+      <File FileName="1/Properties/PublishProfiles/FolderProfile.pubxml" Line="1" Column="1" />
+      <File FileName="1/Properties/PublishProfiles/FolderProfile 1.pubxml" Line="1" Column="1" />
+      <File FileName="1/appsettings.json" />
+      <File FileName="1/ClientApp/README.md" />
+      <File FileName="1/ClientApp/.eslintrc.json" />
+      <File FileName="1/ClientApp/src/registerServiceWorker.ts" />
+      <File FileName="1/Properties/PublishProfiles/FolderProfile 2.pubxml" />
+      <File FileName="1/Pages/_ViewImports.cshtml" />
+      <File FileName="1/Pages/Error.cshtml" />
+      <File FileName="1/ClientApp/src/components/FetchData.tsx" Line="33" Column="23" />
+      <File FileName="1/ClientApp/src/components/Home.tsx" Line="1" Column="1" />
+      <File FileName="1/WeatherForecast.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1" expanded="True">
+            <Node name="1" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                  <Node name="store" expanded="True">
+                    <Node name="WeatherForecasts.ts" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
